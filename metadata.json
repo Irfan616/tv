@@ -1,0 +1,6 @@
+{
+  "name": "Grace TV",
+  "description": "Modern Android IPTV player with Xtream Codes API, M3U/M3U8 playlist management, XMLTV EPG guide, Media3 ExoPlayer, Picture-in-Picture, and parental controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

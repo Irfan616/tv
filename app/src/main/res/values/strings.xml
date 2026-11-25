@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grace TV</string>
+    <string name="app_tagline">Stream Beyond Limits</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_live_tv">Live TV</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_epg">TV Guide (EPG)</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_support">Contact &amp; Support</string>
+    <string name="player_only_notice">Grace TV is a media player only. Add your own legally authorized IPTV playlists or streams.</string>
+    <string name="http_security_warning">Insecure HTTP connection detected. Credentials and streams are not encrypted in transit; prefer HTTPS when your provider supports it.</string>
+    <string name="support_phone">03066000616</string>
+    <string name="support_whatsapp">03066000616</string>
+    <string name="support_email">irfanjameel293@gmail.com</string>
+</resources>

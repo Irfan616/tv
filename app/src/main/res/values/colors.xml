@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grace_dark_bg">#0E1013</color>
+    <color name="grace_red">#E53935</color>
+    <color name="grace_yellow">#FFC107</color>
+    <color name="grace_green">#2EBD59</color>
+</resources>
